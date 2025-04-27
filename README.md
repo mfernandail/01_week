@@ -5,7 +5,7 @@
 ✅ Basic HTML
 
 - Structure of a web page
-- Semantic tags: <header>, <main>, <footer>, <form>
+- Semantic tags
 
 ✅ Basic CSS
 
@@ -13,11 +13,10 @@
 - Box model: margin, padding, border
 - Using display and simple selectors
 
-✅ Introductory JavaScript
+✅ JavaScript
 
-- Data types: strings, numbers, booleans
-- Variable declaration (let, const)
-- Conditional statements (if, else) and logical operators
+- Reviewing JavaScript to continue strengthening my knowledge base.
+- This week I reviewed string methods.
 
 ## 💻 Mini project of the week:
 
