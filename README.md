@@ -1,6 +1,6 @@
 # Week N° 1
 
-## 🎯 Meta: Convertirme en Full Stack Developer en 1 año
+## Step by step, line by line — becoming a Full Stack Developer in one year.
 
 ✅ Basic HTML
 
